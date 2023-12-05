@@ -12,7 +12,7 @@ This Project is based on Python Turtrle to describe the nature.
   <br>
   <b><i>"---Its a difference of just one try between Success and Failure---"</i></b>
 </p>
-
+    
 <h3>Little facts about me 🧑</h3>
 
 - 🧞 I'm a Tech Enthusiast since childhood.
@@ -69,7 +69,7 @@ This Project is based on Python Turtrle to describe the nature.
 <br>
 <p align="center">
   <a href="https://portfolioayush01.netlify.app">
-    <img align="center"  height="175px" src="https://github.com/ayushlab4/Personal-Portfolio/assets/80815483/c1a565e2-5dc2-45e6-ade1-501ca43da8fb"/>
+    <img align="center"  height="175px" src="https://github.com/ayushlab4/Forest-project/assets/80815483/3a4dc2f0-313c-4ec3-8b0c-00845a0406e8"/>
   </a>
 </p>
 </details>
