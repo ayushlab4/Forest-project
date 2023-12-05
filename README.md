@@ -64,7 +64,7 @@ This Project is based on Python Turtrle to describe the nature.
 
 <details open="">
 <summary>
- 📔 Personal Portfoilo:
+ 📔 Forest in Python Turtle:
 </summary>
 <br>
 <p align="center">
